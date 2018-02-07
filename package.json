@@ -1,0 +1,16 @@
+{
+  "name": "node-vitoconnect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=9.0.0"
+  },
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "ramda": "^0.25.0",
+    "request": "^2.83.0",
+    "soap": "^0.23.0",
+    "xml2js": "^0.4.19"
+  }
+}
